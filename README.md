@@ -17,7 +17,27 @@ The pipeline generates:
 ---
 
 ## Workflow
+## Example Results
 
+### Input Function and Renal TACs
+
+![TACs](outputs/05_TACs_input_left_right.png)
+
+### ROI Patlak Analysis
+
+![Patlak](outputs/06_ROI_Patlak_plots.png)
+
+### Raw Parametric Ki Map
+
+![KiMap](outputs/08_raw_Ki_map.png)
+
+### Parametric R² Map
+
+![R2Map](outputs/09_R2_map.png)
+
+### QC-filtered Ki Map
+
+![QC](outputs/10_QC_filtered_Ki_map.png)
 Dynamic DICOM
 
 ↓
