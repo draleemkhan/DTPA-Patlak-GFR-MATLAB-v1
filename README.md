@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides a MATLAB workflow for quantitative analysis of dynamic Tc-99m DTPA renal scintigraphy using Patlak graphical analysis.
+This pipeline implements a Rutland-Patlak graphical analysis of dynamic Tc-99m DTPA renography. The method applies Patlak-style linearization during the early renal uptake phase, where tracer outflow is assumed negligible relative to tracer influx, allowing estimation of renal uptake constants (Ki) and differential renal function.
 
 The pipeline generates:
 
