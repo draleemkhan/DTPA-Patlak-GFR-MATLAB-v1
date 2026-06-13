@@ -3,7 +3,7 @@
 ## Overview
 
 This pipeline implements a Rutland-Patlak graphical analysis of dynamic Tc-99m DTPA renography. The method applies Patlak-style linearization during the early renal uptake phase, where tracer outflow is assumed negligible relative to tracer influx, allowing estimation of renal uptake constants (Ki) and differential renal function.
-
+The estimated Ki corresponds to the slope of a Rutland-Patlak graphical analysis applied during the early renal uptake phase. Under conditions of negligible renal outflow, the Rutland uptake constant F is mathematically analogous to the Patlak influx constant Ki.
 The pipeline generates:
 
 * Image-derived vascular input function
